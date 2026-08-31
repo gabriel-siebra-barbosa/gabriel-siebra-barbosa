@@ -5,7 +5,7 @@
 - Contato: gabrielsiebrabarbosa@gmail.com
 
 ## Como me encontrar
-[![Gmail Badge](https://shields.io)](mailto:) 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-thebadge&logo=gmail&logoColor=white)](mailto:gabrielsiebrabarbosa@gmail.com) 
 
 ## Tecnologias que estudo
 <div style="display: inline_block"><br>
