@@ -3,7 +3,6 @@
 - Focado em Python, HTML e CSS
 - Preparando-se para o mercado de tecnologia
 
--- 
 
 ## Atuais tecnologias que estudo:
 <div style="display: inline_block"><br>
@@ -14,7 +13,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg
  <img align="center" alt="CSS" height="40" width="40"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"> 
 
---
 
 ## Contato direto:
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:gabriellsiebra@gmail.com) 
