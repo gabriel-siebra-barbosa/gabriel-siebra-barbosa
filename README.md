@@ -3,3 +3,4 @@
 - Focado em Python, HTML e CSS
 - Preparando-se para o mercado de tecnologia
 - Contato: gabrielsiebrabarbosa@gmail.com
+- Link do perfil: https://github.com/gabriel-siebra-barbosa
